@@ -48,8 +48,6 @@ const playGame = (userId) => {
     }
     
 }
-
-
 choice.forEach((choice) => {
     choice.addEventListener('click', () => {
         const userId = choice.getAttribute('id');
