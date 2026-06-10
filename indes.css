@@ -10,11 +10,6 @@
     margin-top: 5vmin;
     gap: 3vh; 
 }
-@media (max-width: 600px) {
-    .container {
-        flex-direction: column;
-    }
-}
 .choice {
     align-items: center;
     justify-content: center;
@@ -109,5 +104,6 @@
     color: aliceblue;
     height: 5vmin;
     width: 20vmin;
+    margin-top: 25px;
     border-radius: 20px;
 }
