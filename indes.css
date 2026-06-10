@@ -19,6 +19,7 @@
     gap: 3vh;
 }
 #heading {
+    font-size: 20px;
     color: beige;
     background-color: rgb(110, 87, 148);
     width: 100%;
